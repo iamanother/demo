@@ -1,1 +1,1 @@
-gradio
+pydantic==1.10.7
